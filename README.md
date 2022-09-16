@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepthiabbaraju
+- 👋 Hi, I’m @DeepthiAbbaraju
 - 🌱 I’m currently learning java
 ...
 
